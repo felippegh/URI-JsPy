@@ -18,153 +18,153 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1001</td>
 <td>Extremely Basic</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1002</td>
 <td>Area of a Circle</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1003</td>
 <td>Simple Sum</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1004</td>
 <td>Simple Product</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1005</td>
 <td>Average 1</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1006</td>
 <td>Average 2</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 
 <tr>
 <td>1007</td>
 <td>Difference</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 
 <tr>
 <td>1008</td>
 <td>Salary</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1009</td>
 <td>Salary with Bonus</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1010</td>
 <td>Simple Calculate</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1011</td>
 <td>Sphere	Sequential</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1012</td>
 <td>Area	Sequential</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1013</td>
 <td>The Greatest</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1014</td>
 <td>Consumption</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1015</td>
 <td>Distance Between Two Points</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1016</td>
 <td>Distance</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1017</td>
 <td>Fuel Spent</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1018</td>
 <td>Banknotes</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1019</td>
 <td>Time Conversion</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1020</td>
 <td>Age in Days</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1021</td>
 <td>Banknotes and Coins</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1035</td>
 <td>Selection Test 1</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1036</td>
 <td>Bhaskara's Formula</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1037</td>
 <td>Interval</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 
 <tr>
 <td>1038</td>
 <td>Snack</td>
-<td>JavascriptC, Python</td>
+<td>Javascript, Python</td>
 </tr>
 </table>
 
