@@ -1,4 +1,4 @@
-# URI-Online-Judge-All-Problems-Solution List
+# URI Online Judge Python and Javascript Solution List
 This is my list of solutions for problems from URI Online Judge using Javascript and Python. If possible, I'll try to add more solutions in the future. Checkout my profile on URI Online Judge <a href="https://www.urionlinejudge.com.br/judge/en/profile/524130">here</a>. :)<br />
 
 The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing.<br /> The URI Online Judge contains more than 1,000 problems divided in 8 big categories. This division help the users to focus on specific programming topics. All problems are available in Portuguese and English. The URI Online Judge website also has public contests on a regular basis.<br />
